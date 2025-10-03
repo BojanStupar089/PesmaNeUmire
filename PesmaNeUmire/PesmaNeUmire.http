@@ -1,0 +1,6 @@
+@PesmaNeUmire_HostAddress = http://localhost:5189
+
+GET {{PesmaNeUmire_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
